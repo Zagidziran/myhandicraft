@@ -15,7 +15,7 @@
 - [Категории товаров](#categories)
 - [Фильры](#filters)
 - [Корзина](#cart)
-[Дизайн](#design)
+[Дизайн](#design)  
 
 
 <a name="common-terms"><h3>Общие положнеия</h3></a>
