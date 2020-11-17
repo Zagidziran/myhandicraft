@@ -27,19 +27,37 @@
 Цветовая схема изображений не должна контрастировать с [сайтом](http://myhandicraft.ru)
 
 #### Изображения
-- Шкатулка Legi Posta
 
+Результирующее изображение предпочитетльно сформировать как коллаж из некого набора ниже приведенных изображений. Предпочтительно, но не обязательно.
 
-![Ключница Арка](https://raw.githubusercontent.com/Zagidziran/myhandicraft/master/Дерево/Ключницы/Ключница%20Арка/20200707_1124328.jpg)
+![Браслет](https://raw.githubusercontent.com/Zagidziran/myhandicraft/master/Кожа/FelixRodionov/Зеленый/20200411_190145.jpg)
+![Браслет](https://raw.githubusercontent.com/Zagidziran/myhandicraft/master/Кожа/FelixRodionov/Зеленый/20200411_190156.jpg)
+![Браслет](https://raw.githubusercontent.com/Zagidziran/myhandicraft/master/Кожа/FelixRodionov/Зеленый/20200412_145630.jpg)
+![Браслет](https://raw.githubusercontent.com/Zagidziran/myhandicraft/master/Кожа/FelixRodionov/Зеленый/20200412_152742.jpg)
 
-![Ключница Белая](https://raw.githubusercontent.com/Zagidziran/myhandicraft/master/Дерево/Ключницы/Ключница%20Белая/20200919_203605.jpg)
+![Браслет](https://raw.githubusercontent.com/Zagidziran/myhandicraft/master/Кожа/FelixRodionov/Змея/20200329_164046.jpg)
+![Браслет](https://raw.githubusercontent.com/Zagidziran/myhandicraft/master/Кожа/FelixRodionov/Змея/20200411_184934.jpg)
+![Браслет](https://raw.githubusercontent.com/Zagidziran/myhandicraft/master/Кожа/FelixRodionov/Змея/20200412_140241.jpg)
 
-![Ключница Милый Дом](https://raw.githubusercontent.com/Zagidziran/myhandicraft/master/Дерево/Ключницы/Ключница%20Милый%20Дом/20200122_224813.jpg)
+![Браслет](https://raw.githubusercontent.com/Zagidziran/myhandicraft/master/Кожа/FelixRodionov/Коричневый/20200405_203847.jpg)
+![Браслет](https://raw.githubusercontent.com/Zagidziran/myhandicraft/master/Кожа/FelixRodionov/Коричневый/20200412_145100.jpg)
+![Браслет](https://raw.githubusercontent.com/Zagidziran/myhandicraft/master/Кожа/FelixRodionov/Коричневый/20200405_204327.jpg)
+![Браслет](https://raw.githubusercontent.com/Zagidziran/myhandicraft/master/Кожа/FelixRodionov/Коричневый/20200405_204328.jpg)
 
-![Ключница Черногория](https://raw.githubusercontent.com/Zagidziran/myhandicraft/master/Дерево/Ключницы/Ключница%20Черногория/20200919_203320.jpg)
+![Браслет](https://raw.githubusercontent.com/Zagidziran/myhandicraft/master/Кожа/FelixRodionov/Красный/20200405_193445.jpg)
+![Браслет](https://raw.githubusercontent.com/Zagidziran/myhandicraft/master/Кожа/FelixRodionov/Красный/20200405_193536.jpg)
+![Браслет](https://raw.githubusercontent.com/Zagidziran/myhandicraft/master/Кожа/FelixRodionov/Красный/20200412_143931.jpg)
+![Браслет](https://raw.githubusercontent.com/Zagidziran/myhandicraft/master/Кожа/FelixRodionov/Красный/20200412_151330.jpg)
 
-![Ключница Щит](https://raw.githubusercontent.com/Zagidziran/myhandicraft/master/Дерево/Ключницы/Ключница%20Щит/20200919_203004.jpg)
+![Браслет](https://raw.githubusercontent.com/Zagidziran/myhandicraft/master/Кожа/FelixRodionov/Синий/20200405_201432.jpg)
+![Браслет](https://raw.githubusercontent.com/Zagidziran/myhandicraft/master/Кожа/FelixRodionov/Синий/20200411_185539.jpg)
+![Браслет](https://raw.githubusercontent.com/Zagidziran/myhandicraft/master/Кожа/FelixRodionov/Синий/20200411_185830.jpg)
+![Браслет](https://raw.githubusercontent.com/Zagidziran/myhandicraft/master/Кожа/FelixRodionov/Синий/20200412_150452.jpg)
 
-![Ключница Витражи](https://raw.githubusercontent.com/Zagidziran/myhandicraft/master/Дерево/Ключницы/Ключница%20витражи/20200404_205016.jpg)
+![Браслет](https://raw.githubusercontent.com/Zagidziran/myhandicraft/master/Кожа/FelixRodionov/Черный/20200404_211814.jpg)
+![Браслет](https://raw.githubusercontent.com/Zagidziran/myhandicraft/master/Кожа/FelixRodionov/Черный/20200404_213634.jpg)
+![Браслет](https://raw.githubusercontent.com/Zagidziran/myhandicraft/master/Кожа/FelixRodionov/Черный/20200412_144246.jpg)
 
-![Ключница Париж](https://raw.githubusercontent.com/Zagidziran/myhandicraft/master/Дерево/Ключницы/ключница%20Париж/20200707_112124.jpg)
+Фон изображения должен совпадать по тону и иметь общую стилистику с существующим банером для категории шкатулок 
+
+![фон](https://raw.githubusercontent.com/Zagidziran/myhandicraft/master/art/banner-boxes.png)

@@ -28,6 +28,12 @@
 
 #### Изображения
 
+Фон изображения должен совпадать по тону и иметь общую стилистику с существующим банером для категории шкатулок 
+
+![фон](https://raw.githubusercontent.com/Zagidziran/myhandicraft/master/art/banner-boxes.png)
+
+Для выполнения работы можно использовать следуюшие изображения:
+
 ![Ключница Арка](https://raw.githubusercontent.com/Zagidziran/myhandicraft/master/Дерево/Ключницы/Ключница%20Арка/20200707_1124328.jpg)
 
 ![Ключница Белая](https://raw.githubusercontent.com/Zagidziran/myhandicraft/master/Дерево/Ключницы/Ключница%20Белая/20200919_203605.jpg)
