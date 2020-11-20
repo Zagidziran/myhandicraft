@@ -18,7 +18,7 @@
 В качестве главной темы можно использовать изображение шкатулки Сирень: 
 ![Сирень](https://raw.githubusercontent.com/Zagidziran/myhandicraft/master/Дерево/Шкатулки/Сирень/20200322_202808.jpg)
 ![Сирень](https://raw.githubusercontent.com/Zagidziran/myhandicraft/master/Дерево/Шкатулки/Сирень/20200322_203558.jpg)
- Так же для формирования образа можно использовать как фотографии товаров из технических заданий к [шкатулкам](requirements_box.md), [ключницам](requirements_housekeepers.md), [браслетам](requirements_bracelets.md), так и [работы из архива](art.zip).
+ Так же для формирования образа можно использовать как фотографии товаров из технических заданий к [шкатулкам](requirements_box.md), [ключницам](requirements_housekeepers.md), [браслетам](requirements_bracelets.md), так и [работы из архива](https://github.com/Zagidziran/myhandicraft/blob/master/art/art.zip?raw=true).
 
 ### Текст: Handicraft
 
